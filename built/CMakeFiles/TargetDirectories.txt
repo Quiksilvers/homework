@@ -1,0 +1,3 @@
+C:/homework/debug/CMakeFiles/homework.dir
+C:/homework/debug/CMakeFiles/edit_cache.dir
+C:/homework/debug/CMakeFiles/rebuild_cache.dir
